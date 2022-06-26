@@ -2,3 +2,5 @@ Este es el NoteBook de mi Proyecto final de Data Sciense
 https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/8a7f22d7-161b-4042-b0c1-413cd0196292/view?access_token=021665fef66e1dc938784e8ecbd34bad174f06a475d6e8b546cabb4b1979c984
 Trabajo final toronto
 https://colab.research.google.com/drive/1NZO2HH5Ce8qPPSfdoYrIndMTcMNtM5hX#scrollTo=RLM1EfqDBQYs
+
+Planteamiento del Prpblema comercial: El incremento de residentes en Toronto y la migración a la ciudad, ha llevado a las personas a evaluar comprar una propiedad en la ciudad. Para ello, deben evaluar ciertas características para justificar precio que oscilan entre cientos de miles de dolares y millones de dolares. Para ello, evaluaremos los condominios que se encuentran cercanos a transporte público, escuelas y acceso a comercios.
